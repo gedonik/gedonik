@@ -11,7 +11,7 @@
 
 
 ## My tech stack
-React, Router, Redux toolkit, Axios, Javascript, Git, HTML, CSS, SCSS, BEM, Gulp, Webpack, Figma, Bootstrap, Tailwind, Aint Design, Material UI.
+React, Redux, RTK, TS, Vue, Vuex, Vuetify, HTML, CSS, JS.
 
 Also i have some experience with vue, vuex, pinia.
 
