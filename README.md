@@ -13,8 +13,6 @@
 ## My tech stack
 React, Redux, RTK, TS, Vue, Vuex, Vuetify, HTML, CSS, JS.
 
-Also i have some experience with vue, vuex, pinia.
-
 
 ## My contacts
 https://t.me/gedonik
